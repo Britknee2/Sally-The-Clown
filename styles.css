@@ -1,0 +1,7 @@
+body{background-color: palevioletred;}
+h1{color: lightpink;font-family: sans-serif; font-size: 40px;}
+p {color: blueviolet;}
+a:hover {color: floralwhite;}
+img:hover {border-style: solid; border-color: mediumpurple;} 
+ul {list-style-type: none;}
+
